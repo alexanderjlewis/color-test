@@ -1,18 +1,9 @@
-import altair as alt
-import base64
-import os
-from typing import Dict
-import requests
-import pandas as pd
 import streamlit as st
-from io import BytesIO
 from PIL import Image
 from typing import List, Dict
 
 import numpy as np
-import cv2
 from colorblind import colorblind
-import matplotlib.pyplot as plt
 
 st.title("Colour Bling Simulator")
 
