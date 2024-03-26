@@ -1,8 +1,5 @@
 import streamlit as st
 from PIL import Image
-from typing import List, Dict
-
-import numpy as np
 from colorblind import colorblind
 
 st.title("Colour Bling Simulator")
