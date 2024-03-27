@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image
+import cv2
 from colorblind import colorblind
 
 st.title("Colour Bling Simulator")
