@@ -1,4 +1,3 @@
-
 streamlit
 colorblind
-opencv-pythonstreamlit
+opencv-python
