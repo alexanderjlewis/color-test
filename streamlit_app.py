@@ -10,7 +10,7 @@ uploaded_img = st.file_uploader("Upload Image")
 if uploaded_img is not None:
     st.title("Original Image")
     img = Image.open(uploaded_img)
-    st.image(img, "Simulated Protanopia")
+    st.image(img, "")
 
     
     
